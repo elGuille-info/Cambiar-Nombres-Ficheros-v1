@@ -9,7 +9,7 @@
     <OutputType>WinExe</OutputType>
     <StartupObject>CambiarNombresFicheros.My.MyApplication</StartupObject>
     <RootNamespace>CambiarNombresFicheros</RootNamespace>
-    <AssemblyName>Cambiar Nombres Ficheros</AssemblyName>
+    <AssemblyName>Cambiar Nombres Ficheros-v1</AssemblyName>
     <MyType>WindowsForms</MyType>
     <OptionStrict>On</OptionStrict>
     <ApplicationIcon>app.ico_Files.ico</ApplicationIcon>
@@ -53,7 +53,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\</OutputPath>
-    <DocumentationFile>Cambiar Nombres Ficheros.xml</DocumentationFile>
+    <DocumentationFile>Cambiar Nombres Ficheros-v1.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
@@ -63,7 +63,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\</OutputPath>
-    <DocumentationFile>Cambiar Nombres Ficheros.xml</DocumentationFile>
+    <DocumentationFile>Cambiar Nombres Ficheros-v1.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
