@@ -246,7 +246,9 @@ Public Class Form1
         backgroundWorker_DoWork(txtDir, txtExtensiones.Text)
     End Sub
 
-    Private Sub bgwProc_RunWorkerCompleted(sender As Object, e As System.ComponentModel.RunWorkerCompletedEventArgs) Handles bgwProc.RunWorkerCompleted
+    Private Sub bgwProc_RunWorkerCompleted(sender As Object,
+                                           e As System.ComponentModel.RunWorkerCompletedEventArgs) _
+                                           Handles bgwProc.RunWorkerCompleted
         ' Procesar los ficheros acumulados en la colección
         ProgressBar1.Visible = True
         ProgressBar1.Maximum = ficheros.Count

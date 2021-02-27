@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("Cambiar Nombres Ficheros")>
-<Assembly: AssemblyDescription("Cambia los nombres de los ficheros  (revisión del 25-fecb-2021, ant: 30/Oct/2008, 19/Abr/2006)")>
+<Assembly: AssemblyDescription("Cambia los nombres de los ficheros  (revisión del 27-feb-2021, ant: 30/Oct/2008, 19/Abr/2006)")>
 <Assembly: AssemblyCompany("elGuille")>
 <Assembly: AssemblyProduct("Cambiar Nombres Ficheros")>
-<Assembly: AssemblyCopyright("©Guillermo 'guille' Som, 2005-2008, 2021")>
+<Assembly: AssemblyCopyright("©Guillermo Som (elGuille), 2005-2008, 2021")>
 <Assembly: AssemblyTrademark("Microsoft Visual Studio 2019 (.NET 4.8)")>
 
 <Assembly: ComVisible(False)>
