@@ -9,7 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.snk
+elguille.snk
 *.lnk
 
 
